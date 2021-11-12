@@ -256,18 +256,18 @@ Section {
 }
 
 /* Project */
-.project h2 {
+.relation h2 {
   font-size: 24px;
   font-weight: 700;
   color: #8fb8ff;
   margin-bottom: 1rem;
 }
-.project p {
+.relation p {
   margin: 15px 0 30px 0;
   line-height: 24px;
   font-size: 14px;
 }
-.project h4 {
+.relation h4 {
   font-size: 20px;
   font-weight: bold;
   color: #8fb8ff;
@@ -275,16 +275,16 @@ Section {
   position: relative;
   padding-bottom: 6px;
 }
-.project h5 {
+.relation h5 {
   padding: 12px 0 6px 0;
   font-size: 16px;
   font-weight: bold;
   position: relative;
 }
-.project .img-thumbnail {
+.relation .img-thumbnail {
   margin-bottom: 1rem;
 }
-.project .project-item {
+.relation .relation-item {
   margin: 2rem 0 3rem 0;
 }
 
